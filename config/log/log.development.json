@@ -1,0 +1,4 @@
+{
+  "logPath" : "/var/log/bcg-test/bcg-test.log",
+  "logLevel" : "DEBUG"
+}
